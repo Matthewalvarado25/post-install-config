@@ -20,11 +20,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Step 1: Secure the Installation
-- Step 2: Configure the Email Settings for Ticket Automation
-- Step 3: Set Up Help Topics and Departments
-- Step 4: Configure User Roles and Staff Permissions
-- Step 5: Customize Ticket Settings and Automate Workflows
+- Configure Roles
+- Configure Departments
+- Configure Teams
+- Configure Agents
+- Configure Users
+- Configure SLA
+- Configure Help Topics
 
 <h2>Configuration Steps</h2>
 
