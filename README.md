@@ -104,6 +104,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Go back to the, "Admin Panel" -> Agents -> Add New Agent
 - For this assignment you will creating two agents
+- Fill out the empty fields for each agent
+
   - Agent 1
     - Name: Jane Doe
     - Email Address: Jane@lognpacific.com
@@ -113,18 +115,77 @@ This tutorial outlines the post-install configuration of the open-source help de
     - Role: Supreme Admin
     - Team: Online Banking
 
+- Agent 2
+    - Name: John Doe
+    - Email Address: John@lognpacific.com
+    - Username: john
+    - Password: Password1
+    - Department: Support
+    - Role: View only
+    - Team: Unassigned
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  
+![image](https://github.com/user-attachments/assets/2062343e-c2ac-4541-851c-09318d088de6)
+
+- Next, go to the "Access" tab, assign department and role
+
+![image](https://github.com/user-attachments/assets/9471b9d5-cff8-411e-a93a-e11ca98acc6d)
+
+- Lastly, go to the "Teams" tab, assign team, then click "Create" to finish
+
+![image](https://github.com/user-attachments/assets/d62e77dc-f36b-41d5-a487-8d9dc6fe763e)
+
+
 </p>
 <br />
 
+<h3>Step:6 Configure Users </h3>
+<p>  
+
+- Go to the "Agent Panel", navigate to Users -> Add User
+- Fill out the fields with the new user's information
+- click "Add User" to finish
+ 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/user-attachments/assets/fa810bb8-3def-41c0-ab40-b4fa28d1dccb)
+
+<p>
+
+</p>
+<br />
+
+<h3>Step:7 Configure SLA </h3>
+<p>  
+  
+-  Go to the "Admin Panel", navigate to "Manage" -> SLA -> Add New SLA Plan
+-  We are going to create 3 SLA's 
+-  Fill out the necessary fields for each SLA and click "Add Plan" to complete
+
+<p>  
+
+- SLA 1
+  - Name: Sev-A
+  - Grace Period: 1 (hr)
+  - Schedule: 24/7
+
+- SLA 2
+  - Name: Sev-B
+  - Grace Period: 4 (hrs)
+  - Schedule: 24/7
+
+- SLA 3
+  - Name: Sev-C
+  - Grace Period: 8 (hrs)
+  - Schedule: Monday-Friday, 8am - 5pm
+
+![image](https://github.com/user-attachments/assets/4cee36fb-2f7f-46fb-ba78-c5d9bf1eae31)
+
+- Example of Sev-A
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
