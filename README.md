@@ -185,7 +185,35 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Example of Sev-A
 
+</p>
+<br />
 
+<h3>Step:7 Configure Help Topics </h3>
+
+- In the "Admin Panel", go to Manage -> Help Topics -> Add New Help Topic
+- Fill out the Topic and Parent Topic field
+- Click "Add Topic" to complete
+- We are going to create 5 Help Topics:
+![image](https://github.com/user-attachments/assets/99bfca06-ddc6-4660-8de6-a55ea82279a7)  
+
+
+  
+- Help Topic 1: Business Critical Outage
+  - Parent Topic: Report a Problem
+- Help Topic 2: Personal Computer Issues
+  - Parent Topic: Report a Problem
+- Help Topic 3: Equipment Request
+  - Parent Topic: General Inquiry
+- Help Topic 4: Password Reset
+  - Parent Topic: Report a Problem
+- Help Topic 5: Other
+  - Parent Topic: General Inquiry
+
+<p>  
+  
+
+
+  
 </p>
 <p>
 
