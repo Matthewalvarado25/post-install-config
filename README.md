@@ -194,6 +194,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Fill out the Topic and Parent Topic field
 - Click "Add Topic" to complete
 - We are going to create 5 Help Topics:
+<p>  
+  
 ![image](https://github.com/user-attachments/assets/99bfca06-ddc6-4660-8de6-a55ea82279a7)  
 
 
