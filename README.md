@@ -213,6 +213,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p>  
   
+![image](https://github.com/user-attachments/assets/20805373-ebf4-4338-9d67-645e9492feb1)
 
 
   
