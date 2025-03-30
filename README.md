@@ -30,7 +30,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-<h3>Step:1 Configure roles (for grouping permissions)</h3>
+<h3>Step:1 Configure roles </h3>
 
 <p>
 
