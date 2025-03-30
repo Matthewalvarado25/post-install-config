@@ -220,3 +220,6 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <p>
 
+This completes the full setup of your osTicket. I hope this guide has helped clarify the setup process and assisted you in configuring your osTicket. 
+
+
