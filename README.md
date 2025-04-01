@@ -168,17 +168,17 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - SLA 1
   - Name: Sev-A
-  - Grace Period: 1 (hr)
+  - Grace Period: 1 hr
   - Schedule: 24/7
 
 - SLA 2
   - Name: Sev-B
-  - Grace Period: 4 (hrs)
+  - Grace Period: 4 hrs
   - Schedule: 24/7
 
 - SLA 3
   - Name: Sev-C
-  - Grace Period: 8 (hrs)
+  - Grace Period: 8 hrs
   - Schedule: Monday-Friday, 8am - 5pm
 
 ![image](https://github.com/user-attachments/assets/4cee36fb-2f7f-46fb-ba78-c5d9bf1eae31)
